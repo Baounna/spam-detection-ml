@@ -41,4 +41,6 @@ The model uses TF-IDF for feature extraction and Multinomial Naive Bayes for tex
 
 Mohamed Baounna
 🎓 Computer Engineering & AI Student – FPK
+🧠 [Open the Jupyter Notebook here](https://github.com/Baounna/spam-detection-ml/blob/main/notebooks/spam_detection.ipynb)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/baounna/) | [GitHub](https://github.com/Baounna)
