@@ -43,4 +43,4 @@ Mohamed Baounna
 🎓 Computer Engineering & AI Student – FPK
 🧠 [Open the Jupyter Notebook here](https://github.com/Baounna/spam-detection-ml/blob/main/notebooks/spam_detection.ipynb)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/baounna/) | [GitHub](https://github.com/Baounna)
+🔗 [LinkedIn](https://linkedin.com/in/baounna) | [GitHub](https://github.com/Baounna)
